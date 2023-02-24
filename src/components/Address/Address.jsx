@@ -7,13 +7,13 @@ import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import "./address.css";
 // <-------array data default value -------->
 let data = [
-  "Sakshi",
-  987654321,
+  "Pritam",
+  7298585851,
   "B-20, XYZ Complex",
-  "roorki Road",
-  250110,
-  "meerut",
-  "Uttarpardesh",
+  "jalna Road",
+  431001,
+  "city",
+  "state",
   "Near Busstand",
 ];
 export default function Address() {
