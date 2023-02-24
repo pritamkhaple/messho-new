@@ -161,7 +161,7 @@ export default function Navbar() {
                 />
                 Profile
                 <div>
-                  <h2>Hello Sakshi!</h2>
+                  <h2>Hello Pritam!</h2>
                   <p>to access your meesho account</p>
                   <button>SIGN UP</button>
                   <p>Go to Your Orders</p>
